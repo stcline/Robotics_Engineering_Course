@@ -1,0 +1,18 @@
+Units:
+1. Introduction
+  A. Course overview
+  B. Raspberry Pi
+  C. GitHub
+2. Electronics
+3. BASH Crash Course
+4. GIT and GitHub
+5. Python Scripting
+  A. Basic Functions
+  B. Blink
+  C. Digital v. Analog
+  D. Loops
+  E. Sensing
+  F. Conditionals
+6. CAD
+7. Mechanical Design
+8. Capstone
